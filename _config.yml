@@ -10,6 +10,7 @@ locale                   : "en"
 title                    : ""
 title_separator          : "-"
 name                     : "Katerina Michaelides"
+theme                    : minimal-mistakes-jekyll
 description              : "Researching climatic, hydrological, geomorphological and biogeochemical processes in drylands"
 url                      : http://michaelides.eri.ucsb.edu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
