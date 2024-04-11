@@ -21,7 +21,8 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-
+    - name: Adjust permissions
+      run: sudo chown -R $USER:$USER .
     - name: Install Jekyll and dependencies
       run: |
        bundle config set --local path 'vendor/bundle'
