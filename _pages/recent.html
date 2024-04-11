@@ -1,0 +1,19 @@
+---
+layout: splash
+permalink: /recent/
+title: "Latest News"
+author_profile: false
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/Israel_hillslope.jpg
+excerpt: 'The latest news for the Dryland Research Group.<br />'
+
+---
+
+{% for post in site.posts limit:20 %}
+        {% include archive-single.html %}
+{% endfor %}
+
+
+
+

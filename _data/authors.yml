@@ -1,0 +1,124 @@
+# Authors
+
+Katerina Michaelides:
+    name        : "Katerina Michaelides"
+    bio         : "Research Group Leader"
+    email       : "katerina.michaelides@bristol.ac.uk"
+    uri         : "https://research-information.bris.ac.uk/en/persons/katerina-michaelides"
+    github      : "KMichaelides"
+    google_scholar: "SW4AbDkAAAAJ&hl=en"
+    twitter     : "_kmichaelides"
+    linkedin    : "katerina-michaelides-3bb746154"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Michaelides.jpg"
+    
+Andrew Chen:
+    name        : "Shiuan-An (Andrew) Chen"
+    bio         : "Former PhD Student"
+    email       : "sc16970@bristol.ac.uk"
+    github      : "b95208027"
+    researchgate: "Shiuan_An_Chen"
+    google_scholar: "4x5iJYQAAAAJ"
+    twitter     : "AndrewC52669470"
+    linkedin    : "宣安-陳-73591aab"
+    facebook    : "100000637832056"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Chen.jpg"
+       
+Isaac Kipkemoi:
+    name        : "Isaac Kipkemoi"
+    bio         : "PhD Student"
+    email       : "ik17250@bristol.ac.uk"
+    google_scholar: "4x5iJYQAAAAJ"
+    twitter     : "kipkemoisaac"
+    linkedin    : "isaac-kipkemoi-13ba5951"
+    facebook    : "kipkemoi.isaac.77"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Kipkemoi.jpg"
+
+Jacob Rigby:
+    name        : "Jacob Rigby"
+    bio         : "Postdoctoral Research Associate"
+    email       : "j.rigby@bristol.ac.uk"
+    google_scholar: "Jh0rbWgAAAAJ&hl=en"
+    linkedin    : "jacobrigby"
+    researchgate: "Jacob_Rigby"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Rigby.jpg"
+    
+Dagmawi Asfaw:
+    name        : "Dagmawi Asfaw"
+    bio         : "Postdoctoral Research Associate"
+    email       : "d.t.asfaw@bristol.ac.uk"
+    google_scholar: "Sf7o9OAAAAAJ&hl=en"
+    linkedin    : "dagmawi-t-asfaw-0492046a"
+    researchgate: "Dagmawi_Asfaw"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Asfaw.jpg"
+
+David MacLeod:
+    name        : "David MacLeod"
+    bio         : "Senior Research Associate"
+    email       : "david.macleod@bristol.ac.uk"
+    google_scholar: "5XtRzu8AAAAJ&hl=en"
+    linkedin    : "dave-macleod-74575a45"
+    twitter     : "davemacleod111"
+    researchgate: "David_Macleod7"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Macleod.jpg"
+    
+Andrés Quichimbo:
+    name        : "Andrés Quichimbo"
+    bio         : "Research Associate"
+    email       : "QuichimboMiguitamaEA@cardiff.ac.uk"
+    google_scholar: "LJk2XqgAAAAJ&hl=ru"
+    linkedin    : "andresquichimbo"
+    twitter     : "QuichimboEA"
+    researchgate: "A_Quichimbo"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Quichimbo.jpg"
+    
+Lauren Brown:
+    name        : "Lauren Brown"
+    bio         : "Proejct Support Officer"
+    email       : "lauren.bratby@bristol.ac.uk"
+    google_scholar: ""
+    linkedin    : ""
+    twitter     : ""
+    researchgate: ""
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Brown.jpg"
+
+Tamsin Lockwood:
+    name        : "Tamsin Lockwood"
+    bio         : "PhD Student"
+    email       : "tamsin.lockwood@bristol.ac.uk"
+    google_scholar: ""
+    linkedin    : "tamsin-lockwood-5461aab3"
+    twitter     : "tamsinlockwood"
+    researchgate: ""
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Lockwood.jpg"
+
+Manuel Rios Gaona:
+    name        : "Manuel Rios Gaona"
+    bio         : "Postdoctoral Researcher"
+    email       : ""
+    github      : "feliperiosg"
+    researchgate: "M-F-Rios-Gaona-2074926431"
+    google_scholar: "MLObfisAAAAJ&hl=en"
+    orcid       : "0000-0003-3717-1738"
+    linkedin    : "feliperiosg"
+    twitter     : "fel_lx"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Rios.jpg"
+
+Katherine Cocking:
+    name        : "Katherine Cocking"
+    bio         : "PhD Student"
+    email       : "CockingK@cardiff.ac.uk"
+    twitter     : "KatsClimate"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Cocking.jpg"
+
+

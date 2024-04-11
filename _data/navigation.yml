@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "People"
+    url: /people/
+  - title: "Research Themes"
+    url: /themes/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "gScholar <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+    url: https://scholar.google.com/citations?user=SW4AbDkAAAAJ&hl=en
+  - title: "News"
+    url: /recent/
+  - title: "Media Attention"
+    url: /media/
+
