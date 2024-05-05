@@ -22,10 +22,10 @@ excerpt: "Current and past group members"
 ## Current Postdocs
 
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
-[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/) DRIER Project (_2020-23_) <br>
+[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-25_) <br>
 
 ![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
-[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by GCRF Translational Award [GCRF](https://www.ukri.org/research/global-challenges-research-fund/) MAD DAD Project (_2020-22_) <br>
+[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-24_) <br>
 
 ![David MacLeod](../assets/images/people/Macleod.jpg){:class="img-responsive"}<br>
 [David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
@@ -36,14 +36,35 @@ excerpt: "Current and past group members"
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
 [Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
+![Isamar Cortes](/assets/images/people/Cortes.jpg){:class="img-responsive"}<br>
+[Isamar Cortes]({% link _people/cortes.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2024-25_) <br> (based at Cardiff University)
+
 
 ## Current PhD Students 
 #### (Katerina's role in parentheses)
 
 <br>
+![George Blake](/assets/images/people/Blake.jpg){:class="img-responsive"}<br>
+[George Blake]({% link _people/blake.md %}), PhD (Main Supervisor), University of Bristol, NERC GW4+ DTP Studentship <br>
+**Thesis: Rainstorm-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
+
 ![Katherine Cocking](/assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
 [Katherine Cocking]({% link _people/cocking.md %}), PhD (Co-Supervisor), Cardiff University Scholarship <br>
 **Thesis: Impacts of projected future climate change in the Horn of Africa drylands** (_2021-_)
+
+## Visiting PhD Students
+
+<br>
+![Ying Hu](/assets/images/people/Hu.jpg){:class="img-responsive"}<br>
+[Ying Hu]({% link _people/hu.md %}), Visiting PhD student (Feb-Aug 2024), University of Bristol, China Scholarship Council (CSC) scholarship <br>
+**Thesis: Rainstorm-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
+
+   
+## Current Masters Students
+
+
+   
+## Past Graduate Students (PhD and Masters)
 
 ![Isaac Kipkemoi](/assets/images/people/Kipkemoi.jpg){:class="img-responsive"}<br>
 [Isaac Kipkemoi]({% link _people/kipkemoi.md %}), PhD (Primary Supervisor), Kenyan Government Scholarship <br>
@@ -52,13 +73,6 @@ excerpt: "Current and past group members"
 ![Tamsin Lockwood](/assets/images/people/Lockwood.jpg){:class="img-responsive"}<br>
 [Tamsin Lockwood]({% link _people/lockwood.md %}), PhD (Primary Supervisor, taken over from Jim Freer in 2019) <br>
 **Thesis: Quantifying the efficacy of in-situ Natural Flood Management (NFM)** (_2017-_)
-
-   
-## Current Masters Students
-
-
-   
-## Past Graduate Students (PhD and Masters)
 
 ![Shiuan-An Chen](/assets/images/people/Chen.jpg){:class="img-responsive"}<br>
 [Shiuan-An Chen]({% link _people/chen.md %}), PhD (Primary Supervisor) <br>
