@@ -17,7 +17,7 @@ Ying is a visiting 4th year PhD student from the Research Center for Eco-environ
 
 For her PhD she is exploring the impact of climate change on ecosystems, including ecosystem functions (ecosystem resilience, ecosystem water use efficiency, etc.) and ecosystem processes (phenology).
 
-During her visit to Bristol, she is working on analysing the impact of climate on vegetation dynamics in drylands.
+During her stay in Bristol, she is working on analysing the impact of climate on vegetation dynamics in drylands.
 
 Googlescholar: https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=oo7FaoYAAAAJ&gmla=AILGF5VENlXsJPsEsODc2xNpRNJ_dIqWaQvV9tf-iC4bEQgKRs_m136YdGj-QLPyUEOx4hll_tqCHMDCFo9Z2XER82S3nBEguER4oAW3yF0vqkpsYGM 
 

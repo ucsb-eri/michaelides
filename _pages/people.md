@@ -44,9 +44,9 @@ excerpt: "Current and past group members"
 #### (Katerina's role in parentheses)
 
 <br>
-![George Blake](/assets/images/people/Blake.jpg){:class="img-responsive"}<br>
-[George Blake]({% link _people/blake.md %}), PhD (Main Supervisor), University of Bristol, NERC GW4+ DTP Studentship <br>
-**Thesis: Rainstorm-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
+##![George Blake](/assets/images/people/Blake.jpg){:class="img-responsive"}<br>
+##[George Blake]({% link _people/blake.md %}), PhD (Main Supervisor), University of Bristol, NERC GW4+ DTP Studentship <br>
+##**Thesis: Rainstorm-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
 
 ![Katherine Cocking](/assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
 [Katherine Cocking]({% link _people/cocking.md %}), PhD (Co-Supervisor), Cardiff University Scholarship <br>
@@ -57,7 +57,7 @@ excerpt: "Current and past group members"
 <br>
 ![Ying Hu](/assets/images/people/Hu.jpg){:class="img-responsive"}<br>
 [Ying Hu]({% link _people/hu.md %}), Visiting PhD student (Feb-Aug 2024), University of Bristol, China Scholarship Council (CSC) scholarship <br>
-**Thesis: Rainstorm-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
+**Project while in Bristol: Analysing vegetation responses to climate in East African drylands**
 
    
 ## Current Masters Students
