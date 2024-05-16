@@ -27,17 +27,14 @@ excerpt: "Current and past group members"
 ![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
 [Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-24_) <br>
 
-![David MacLeod](../assets/images/people/Macleod.jpg){:class="img-responsive"}<br>
-[David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
-
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
 [Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
 [Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
-![Isamar Cortes](/assets/images/people/Cortes.jpg){:class="img-responsive"}<br>
-[Isamar Cortes]({% link _people/cortes.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2024-25_) <br> (based at Cardiff University)
+##![Isamar Cortes](/assets/images/people/Cortes.jpg){:class="img-responsive"}<br>
+##[Isamar Cortes]({% link _people/cortes.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2024-25_) <br> (based at Cardiff University)
 
 
 ## Current PhD Students 
