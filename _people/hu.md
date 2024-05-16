@@ -27,6 +27,5 @@ Publications:
 3. **Hu, Y.**, Wei, F., Fu, B. et al. Ecosystems in China have become more sensitive to changes in water demand since 2001. Commun Earth Environ 4, 444 (2023). ( Q1, IF: 7.9)
 4. **Hu, Y.**, Wei, F., Wang, S., Zhang, W., Fensholt, R., Xiao, X., Fu, B., Critical thresholds for nonlinear responses of ecosystem water use efficiency to drought, Science of The Total Environment, Volume 918, 2024, 170713, ISSN 0048-9697 (Q1, IF: 9.8)
 5. **Hu Y.**, Wei F, Fu B, et al. (2024) Divergent patterns of rainfall regimes in dry and humid areas of China. Journal of Hydrology: 131243. (Q1, IF: 6.4)
-6. 胡影,冯晓明,巩杰.基于生态系统服务的宁夏回族自治区自然-社会经济协调性分析[J].生态学报,2022,42(16):6523-6533.
-7. Zhuangzhuang Wang, Bojie Fu, Xutong Wu, Shuai Wang, Yingjie Li, Yuhao Feng, Liwei Zhang, **Ying Hu**, Linhai Cheng, Binbin Li. (2024) Distinguishing Trajectories and Drivers of Vegetated Ecosystems in China's Loess Plateau. Earth's Future 12: e2023EF003769. (Q1, IF: 8.9)
+6. Zhuangzhuang Wang, Bojie Fu, Xutong Wu, Shuai Wang, Yingjie Li, Yuhao Feng, Liwei Zhang, **Ying Hu**, Linhai Cheng, Binbin Li. (2024) Distinguishing Trajectories and Drivers of Vegetated Ecosystems in China's Loess Plateau. Earth's Future 12: e2023EF003769. (Q1, IF: 8.9)
 
