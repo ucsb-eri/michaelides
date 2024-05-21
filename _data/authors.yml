@@ -55,17 +55,6 @@ Dagmawi Asfaw:
     researchgate: "Dagmawi_Asfaw"
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Asfaw.jpg"
-
-David MacLeod:
-    name        : "David MacLeod"
-    bio         : "Senior Research Associate"
-    email       : "david.macleod@bristol.ac.uk"
-    google_scholar: "5XtRzu8AAAAJ&hl=en"
-    linkedin    : "dave-macleod-74575a45"
-    twitter     : "davemacleod111"
-    researchgate: "David_Macleod7"
-    location    : "Bristol, UK"
-    avatar      : "assets/images/people/Macleod.jpg"
     
 Andrés Quichimbo:
     name        : "Andrés Quichimbo"
@@ -124,7 +113,7 @@ Katherine Cocking:
 Ying Hu:
     name        : "Ying Hu"
     bio         : "Visiting PhD Student"
-    email       : ""
+    email       : "sd24087@bristol.ac.uk"
     google_scholar: "oo7FaoYAAAAJ&gmla=AILGF5VENlXsJPsEsODc2xNpRNJ_dIqWaQvV9tf-iC4bEQgKRs_m136YdGj-QLPyUEOx4hll_tqCHMDCFo9Z2XER82S3nBEguER4oAW3yF0vqkpsYGM"
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Hu.jpg"
