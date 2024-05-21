@@ -19,8 +19,6 @@ For her PhD she is exploring the impact of climate change on ecosystems, includi
 
 During her stay in Bristol, she is working on analysing the impact of climate on vegetation dynamics in drylands.
 
-Googlescholar: https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=oo7FaoYAAAAJ&gmla=AILGF5VENlXsJPsEsODc2xNpRNJ_dIqWaQvV9tf-iC4bEQgKRs_m136YdGj-QLPyUEOx4hll_tqCHMDCFo9Z2XER82S3nBEguER4oAW3yF0vqkpsYGM 
-
 Publications:
 1. **Hu, Y.**, Wei, F., Fu, B., Wang, S., Wang, L., & Chen, Y. (2022). Multifaceted characteristics of aridity changes and causal mechanisms in Chinese drylands. Progress in Physical Geography: Earth and Environment, 0(0), 189–199. (JCR: Q1 IF:3.9)
 2. **Hu Y.**, Wei F, Fu B, Wang S, Zhang W, & Zhang Y. (2023). Changes and influencing factors of ecosystem resilience in China. Environmental Research Letters, 18(9), 094012. https://doi.org/10.1088/1748-9326/acec89. (Q1, IF: 6.7)

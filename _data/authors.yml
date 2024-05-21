@@ -80,7 +80,7 @@ Andrés Quichimbo:
     
 Lauren Brown:
     name        : "Lauren Brown"
-    bio         : "Proejct Support Officer"
+    bio         : "Project Support Officer"
     email       : "lauren.bratby@bristol.ac.uk"
     google_scholar: ""
     linkedin    : ""
@@ -121,4 +121,10 @@ Katherine Cocking:
     location    : "Cardiff, UK"
     avatar      : "assets/images/people/Cocking.jpg"
 
-
+Ying Hu:
+    name        : "Ying Hu"
+    bio         : "Visiting PhD Student"
+    email       : ""
+    google_scholar: "oo7FaoYAAAAJ&gmla=AILGF5VENlXsJPsEsODc2xNpRNJ_dIqWaQvV9tf-iC4bEQgKRs_m136YdGj-QLPyUEOx4hll_tqCHMDCFo9Z2XER82S3nBEguER4oAW3yF0vqkpsYGM"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Hu.jpg"
