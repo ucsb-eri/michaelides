@@ -17,7 +17,7 @@ excerpt: "Current and past group members"
 ## Project Support
 
 ![Lauren Brown](../assets/images/people/Brown.jpg){:class="img-responsive"}<br>
-[Lauren Brown]({% link _people/brown.md %}), Project Support for DRIER and MAD DAD projects. <br>
+[Lauren Brown]({% link _people/brown.md %}), Project Support for DOWN2EARTH project. <br>
 
 ## Current Postdocs
 
