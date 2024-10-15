@@ -24,9 +24,6 @@ excerpt: "Current and past group members"
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
 [Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-25_) <br>
 
-![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
-[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-24_) <br>
-
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
 [Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
@@ -34,11 +31,14 @@ excerpt: "Current and past group members"
 [Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
 
-
 ## Current PhD Students 
 #### (Katerina's role in parentheses)
 
 <br>
+![George Blake](/assets/images/people/Blake.jpg){:class="img-responsive"}<br>
+[George Blake]({% link _people/blake.md %}), PhD (Primary Supervisor), NERC GW4 DTP Studentship (Met Office CASE) <br>
+**Thesis: Convective-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
+
 ![Katherine Cocking](/assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
 [Katherine Cocking]({% link _people/cocking.md %}), PhD (Co-Supervisor), Cardiff University Scholarship <br>
 **Thesis: Impacts of projected future climate change in the Horn of Africa drylands** (_2021-_)
@@ -49,6 +49,16 @@ excerpt: "Current and past group members"
 ![Ying Hu](/assets/images/people/Hu.jpg){:class="img-responsive"}<br>
 [Ying Hu]({% link _people/hu.md %}), Visiting PhD student (Feb-Aug 2024), University of Bristol, China Scholarship Council (CSC) scholarship <br>
 **Project while in Bristol: Analysing vegetation responses to climate in East African drylands**
+
+
+## Past Postdocs
+
+<br>
+![David MacLeod](../assets/images/people/Macleod.jpg){:class="img-responsive"}<br>
+[David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate, funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
+
+![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
+[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate, funded by EU Horizon 2020 Project Down2Earth (_2023-24_) <br>
 
    
 ## Past Graduate Students (PhD and Masters)

@@ -11,9 +11,10 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by * and members of the group are in bold. 
 
-49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (in revision) Global dryland self-expansion enabled by land–atmosphere feedbacks.
+49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
+self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, Ddoi: 10.1126/science.adn6833
 
-48) Cocking, K. Singer, M.B. MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (in revision) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. 
+48) Cocking, K. Singer, M.B. MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
 
 47) Rios Gaona, M.F., Singer, M.B., **Asfaw, D.** and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (in review) _Geoscientific Model Development_
 
