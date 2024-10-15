@@ -12,11 +12,11 @@ excerpt: "Here is a list of publications by the research group."
 #### Supervised PhD or MSc student and postdoc work denoted by * and members of the group are in bold. 
 
 49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
-self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, Ddoi: 10.1126/science.adn6833
+self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, doi: 10.1126/science.adn6833
 
-48) Cocking, K. Singer, M.B. MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
+48) Cocking, K. Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
 
-47) Rios Gaona, M.F., Singer, M.B., **Asfaw, D.** and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (in review) _Geoscientific Model Development_
+47) Rios Gaona, M.F., Singer, M.B., and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (2024) _Geoscientific Model Development_, 17, 5387–5412, https://doi.org/10.5194/gmd-17-5387-2024
 
 46) MacLeod, D., Kolstad, E.W., **Michaelides, K.**, and Singer, M.B. (2024) Sensitivity of Rainfall Extremes to Unprecedented Indian Ocean Dipole Events. _Geophysical Research Letters_, https://doi.10.1029/2023GL105258
 
