@@ -33,7 +33,7 @@ self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972,
 
 41) *MacLeod, D.A., *Quichimbo, A.E., **Michaelides, K.**, *Asfaw, D., Rosolem, R., Cuthbert, M.O., Otenyo, E., Segele, Z., *Rigby, R., Otieno, G., Hassaballah, K., Tadege, A.., Singer, M.B. (2023) Translating seasonal climate forecasts into water balance forecasts for decision making. PLOS Climate 2(3): e0000138. https://doi.org/10.1371/journal.pclm.0000138
 
-40) **Michaelides, K.**, **Chen, S-A.**, Grieve, S.W.D. and Singer, M.B. (2022) Reply to: Climate versus tectonics as controls on river profiles, _Nature_, doi:10.1038/s41586-022-05419-0. 
+40) **Michaelides, K.**, *Chen, S-A., Grieve, S.W.D. and Singer, M.B. (2022) Reply to: Climate versus tectonics as controls on river profiles, _Nature_, doi:10.1038/s41586-022-05419-0. 
 
 39)	*Adloff, M., Singer, M.B., *MacLeod, D., **Michaelides, K.**, Mehrnegar, N., *Hansford, E., Funk, C., Mitchell, D.  (2022) Sustained water storage in Horn of Africa drylands dominated by seasonal rainfall extremes. _Geophysical Research Letters_, https://doi.org/10.1029/2022GL099299 
 
