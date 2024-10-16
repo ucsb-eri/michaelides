@@ -11,12 +11,13 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
+
 50) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
 self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, doi: 10.1126/science.adn6833
 
 49) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
 
-48) *Alice F. Charteris, A.F., Knowles, T.D.J., Mead, A., Reay, M.K., **Michaelides, K.**, Evershed, R.P. (2024) The differential assimilation of nitrogen fertilizer compounds by soil microorganisms. _FEMS Microbiology Letters_, 371, https://doi.org.10.1093/femsle/fnae041.
+48) *Charteris, A.F., Knowles, T.D.J., Mead, A., Reay, M.K., **Michaelides, K.**, Evershed, R.P. (2024) The differential assimilation of nitrogen fertilizer compounds by soil microorganisms. _FEMS Microbiology Letters_, 371, https://doi.org.10.1093/femsle/fnae041.
 
 47) *Rios Gaona, M.F., Singer, M.B., and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (2024) _Geoscientific Model Development_, 17, 5387–5412, https://doi.org/10.5194/gmd-17-5387-2024
 
