@@ -9,56 +9,58 @@ header:
 excerpt: "Here is a list of publications by the research group."
 ---
 
-#### Supervised PhD or MSc student and postdoc work denoted by * and members of the group are in bold. 
+#### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
+50) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
 self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, doi: 10.1126/science.adn6833
 
-48) Cocking, K. Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
+49) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
 
-47) Rios Gaona, M.F., Singer, M.B., and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (2024) _Geoscientific Model Development_, 17, 5387–5412, https://doi.org/10.5194/gmd-17-5387-2024
+48) *Alice F. Charteris, A.F., Knowles, T.D.J., Mead, A., Reay, M.K., **Michaelides, K.**, Evershed, R.P. (2024) The differential assimilation of nitrogen fertilizer compounds by soil microorganisms. _FEMS Microbiology Letters_, 371, https://doi.org.10.1093/femsle/fnae041.
+
+47) *Rios Gaona, M.F., Singer, M.B., and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (2024) _Geoscientific Model Development_, 17, 5387–5412, https://doi.org/10.5194/gmd-17-5387-2024
 
 46) MacLeod, D., Kolstad, E.W., **Michaelides, K.**, and Singer, M.B. (2024) Sensitivity of Rainfall Extremes to Unprecedented Indian Ocean Dipole Events. _Geophysical Research Letters_, https://doi.10.1029/2023GL105258
 
-45) **Quichimbo, E.A.**, Singer, M.B., **Michaelides, K.**, Rosolem, R., **MacLeod, D.A.**, **Asfaw, D.**, Cuthbert, M.O. (2023) Assessing the sensitivity of modelled water partitioning to global precipitation datasets in a data-scarce dryland region. _Hydrological Processes_, https://doi.org/10.1002/hyp.15047.
+45) *Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R., MacLeod, D.A., *Asfaw, D., Cuthbert, M.O. (2023) Assessing the sensitivity of modelled water partitioning to global precipitation datasets in a data-scarce dryland region. _Hydrological Processes_, https://doi.org/10.1002/hyp.15047.
 
-44) **Rigby, J.M.**, Stawarz, K., Preist, C., Saeed, A., Stokes, K., Elmi, M., Mohamed, A.A. and **Michaelides, K.** (2023) Exploring the Information Needs of Somaliland Pastoralists: Design Considerations for Digital Climate Adaptation Services. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). _Association for Computing Machinery_, New York, NY, USA, 1548–1565. https://doi.org/10.1145/3563657.3596061
+44) *Rigby, J.M., *Stawarz, K., Preist, C., Saeed, A., Stokes, K., Elmi, M., Mohamed, A.A. and **Michaelides, K.** (2023) Exploring the Information Needs of Somaliland Pastoralists: Design Considerations for Digital Climate Adaptation Services. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). _Association for Computing Machinery_, New York, NY, USA, 1548–1565. https://doi.org/10.1145/3563657.3596061
 
 43) Koppa, A., Keune, J., MacLeod, D., Singer, M., Nieto, R., Gimeno, L., **Michaelides, K.**, Rosolem, R., Otieno, G., Tadege, A., Miralles, D.A (2023) Lagrangian analysis of the sources of rainfall over the Horn of Africa drylands (2023), _Journal of Geophysical Research – Atmospheres_ 128, e2022JD038408. https://doi.org/10.1029/2022JD038408
 
-42) ***Asfaw, D.T.**, Singer, M.B., Rosolem, R., *MacLeod, D., Cuthbert, M.O., *Quichimbo, E.A. *Rios Gaona, M.R., **Michaelides, K.** (2023) stoPET v1.0: A stochastic potential evapotranspiration generator for simulation of climate change impacts. _Geoscientific Model Development_, https://doi.org/10.5194/gmd-2022-128. 
+42) *Asfaw, D.T., Singer, M.B., Rosolem, R., *MacLeod, D., Cuthbert, M.O., *Quichimbo, E.A. *Rios Gaona, M.R., **Michaelides, K.** (2023) stoPET v1.0: A stochastic potential evapotranspiration generator for simulation of climate change impacts. _Geoscientific Model Development_, https://doi.org/10.5194/gmd-2022-128. 
 
 41) *MacLeod, D.A., *Quichimbo, A.E., **Michaelides, K.**, *Asfaw, D., Rosolem, R., Cuthbert, M.O., Otenyo, E., Segele, Z., *Rigby, R., Otieno, G., Hassaballah, K., Tadege, A.., Singer, M.B. (2023) Translating seasonal climate forecasts into water balance forecasts for decision making. PLOS Climate 2(3): e0000138. https://doi.org/10.1371/journal.pclm.0000138
 
 40) **Michaelides, K.**, **Chen, S-A.**, Grieve, S.W.D. and Singer, M.B. (2022) Reply to: Climate versus tectonics as controls on river profiles, _Nature_, doi:10.1038/s41586-022-05419-0. 
 
-39)	*Adloff, M., Singer, M.B., **MacLeod, D.**, **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  (2022) Sustained water storage in Horn of Africa drylands dominated by seasonal rainfall extremes. _Geophysical Research Letters_, https://doi.org/10.1029/2022GL099299 
+39)	*Adloff, M., Singer, M.B., *MacLeod, D., **Michaelides, K.**, Mehrnegar, N., *Hansford, E., Funk, C., Mitchell, D.  (2022) Sustained water storage in Horn of Africa drylands dominated by seasonal rainfall extremes. _Geophysical Research Letters_, https://doi.org/10.1029/2022GL099299 
 
-38) Lockwood, T., Freer, J., **Michaelides, K.** Brazier, R.E., and Coxon, G. (2022) Assessing the efficacy of offline water storage ponds for natural flood management. _Hydrological Processes_, 36:e14618, DOI: 10.1002/hyp.14618.
+38) *Lockwood, T., Freer, J., **Michaelides, K.** Brazier, R.E., and Coxon, G. (2022) Assessing the efficacy of offline water storage ponds for natural flood management. _Hydrological Processes_, 36:e14618, DOI: 10.1002/hyp.14618.
 
-37)	**Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. (2022) Exploring exogenous controls on short- versus long-term erosion rates globally. _Earth Surface Dynamics_, https://doi.org/10.5194/esurf-10-1055-2022.
+37)	*Chen, S-A., **Michaelides, K.**, Singer, M.B., Richards, D. (2022) Exploring exogenous controls on short- versus long-term erosion rates globally. _Earth Surface Dynamics_, https://doi.org/10.5194/esurf-10-1055-2022.
 
-36)	***Kipkemoi, I.**, **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands. _In review_
+36)	*Kipkemoi, I., **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands. _In review_
 
-35)	Singer, M.B., Grieve, S.W.D., ***Chen, S-A.**, and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. _In revision_
+35)	Singer, M.B., Grieve, S.W.D., *Chen, S-A., and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. _In revision_
 
-34) ***Rigby, J.M.**, Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** Exploring the climate and weather services ecosystem in the Greater Horn of Africa through practitioner interviews. _In review_
+34) *Rigby, J.M., Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** Exploring the climate and weather services ecosystem in the Greater Horn of Africa through practitioner interviews. _In review_
 
-33) Singer, M.B., ***Asfaw, D.T.**, Rosolem, R, Cuthbert, M.O., Miralles, D.G., **MacLeod, D.**, *Quichimbo, E.A., **Michaelides, K.** (2021) Hourly potential evapotranspiration at 0.1° resolution for the global land surface from 1981-present. _Scientific Data_ 8: 224, https://doi.org/10.1038/s41597-021-01003-9  
+33) Singer, M.B., *Asfaw, D.T., Rosolem, R, Cuthbert, M.O., Miralles, D.G., *MacLeod, D., *Quichimbo, E.A., **Michaelides, K.** (2021) Hourly potential evapotranspiration at 0.1° resolution for the global land surface from 1981-present. _Scientific Data_ 8: 224, https://doi.org/10.1038/s41597-021-01003-9  
 
 32) *Quichimbo, E.A., Singer, M.D., **Michaelides, K.**, Hobley, D.E.J., Rosolem, R., Cuthbert, M.O. (2021) DRYP 1.0: a parsimonious hydrological model of DRYland Partitioning of the water balance. _Geoscientific Model Development_ 14, 6893–6917, https://doi.org/10.5194/gmd-14-6893-2021
 
-31)	***Chen, S-A.**, **Michaelides, K.**, Grieve, S.W.D. and Singer, M.B. (2019) Aridity is expressed in river topography globally. _Nature_ 573–577, doi.org/10.1038/s41586-019-1558-8. 
+31)	*Chen, S-A., **Michaelides, K.**, Grieve, S.W.D. and Singer, M.B. (2019) Aridity is expressed in river topography globally. _Nature_ 573–577, doi.org/10.1038/s41586-019-1558-8. 
 
-30)	***Turpin-Jelfs, T.**, **Michaelides, K.**, Biederman, J.A. and Anesio, A.M. (2019) Soil nitrogen response to shrub encroachment in a degrading semiarid grassland. _Biogeosciences_ 16, 369–381, doi: 10.5194/bg-16-369-2019. 
+30)	*Turpin-Jelfs, T., **Michaelides, K.**, Biederman, J.A. and Anesio, A.M. (2019) Soil nitrogen response to shrub encroachment in a degrading semiarid grassland. _Biogeosciences_ 16, 369–381, doi: 10.5194/bg-16-369-2019. 
 
-29)	***Turpin-Jelfs, T.**, **Michaelides, K.**, Blacker, J., Benning, L., Williams, J. and Anesio, A.M. (2019) Distribution of soil nitrogen and nitrogenase activity in the forefield of a High Arctic receding glacier. _Annals of Glaciology_, doi: 10.1017/aog.2018.35. 
+29)	*Turpin-Jelfs, T., **Michaelides, K.**, Blacker, J., Benning, L., Williams, J. and Anesio, A.M. (2019) Distribution of soil nitrogen and nitrogenase activity in the forefield of a High Arctic receding glacier. _Annals of Glaciology_, doi: 10.1017/aog.2018.35. 
 
 28)	*Calvert, J., Balazs, M. and **Michaelides, K.** (2018) Unifying particle-based and continuum models of hillslope evolution with a probabilistic scaling technique. _Journal of Geophysical Research–Earth Surface_. doi:10.1029/2018JF004612.
 
 27)	Singer, M.B., **Michaelides, K.** and Hobley, D.E.J. (2018) STORM: A simple, flexible and parsimonious stochastic rainfall generator for simulating climate and climate change. _Geoscientific Model Development_, doi:10.5194/gmd-2018-86.
 
-26)	**Michaelides, K.**, ***Hollings, R.**, Singer, M.B., Nichols, M., Nearing, M. (2018) Spatial and temporal analysis of hillslope-channel coupling and implications for the longitudinal profile in a dryland basin. _Earth Surface Processes and Landforms_ doi:10.1002/esp.4340 
+26)	**Michaelides, K.**, *Hollings, R., Singer, M.B., Nichols, M., Nearing, M. (2018) Spatial and temporal analysis of hillslope-channel coupling and implications for the longitudinal profile in a dryland basin. _Earth Surface Processes and Landforms_ doi:10.1002/esp.4340 
 
 25)	Jaeger, K., Sutfin, N., Tooth, S.E., **Michaelides, K.** and Singer, M.B. (2017) Geomorphology and sediment regimes of intermittent rivers; in Datry, T., Bonada, N., Boulton, A. (eds.), _Intermittent Rivers: Ecology and Management_, Elsevier.
 
@@ -68,9 +70,9 @@ self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972,
 
 22)	*Cooper, M.A., **Michaelides, K.**, Siegert, M.J. and Bamber, J.L. (2016) Palaeofluvial origin for Jakobshavn Isbræ catchment, Greenland. _Geophysical Research Letters_, doi: 10.1002/2016GL069458. 
 
-21)	***Charteris, A.F.**, Knowles, T., **Michaelides, K.** and Evershed, R.P. (2016) Compound-specific amino acid 15N stable isotope probing of N assimilation by the soil microbial biomass using gas chromatography/combustion/isotope ratio mass spectrometry. _Rapid Communications in Mass Spectrometry_, doi: 10.1002/rcm.7612, 30 (16): 1846-56.
+21)	*Charteris, A.F., Knowles, T., **Michaelides, K.** and Evershed, R.P. (2016) Compound-specific amino acid 15N stable isotope probing of N assimilation by the soil microbial biomass using gas chromatography/combustion/isotope ratio mass spectrometry. _Rapid Communications in Mass Spectrometry_, doi: 10.1002/rcm.7612, 30 (16): 1846-56.
 
-20)	***Lloyd, C.E.M.**, **Michaelides, K.**, Chadwick, D.R. Dungait, J.A.J. and Evershed, R.P. (2016) Runoff- and erosion-driven transport of cattle slurry: linking molecular tracers to hydrological processes. _Biogeosciences_, doi: 10.5194/bg-13-551-2016, 13: 551-566.
+20)	*Lloyd, C.E.M., **Michaelides, K.**, Chadwick, D.R. Dungait, J.A.J. and Evershed, R.P. (2016) Runoff- and erosion-driven transport of cattle slurry: linking molecular tracers to hydrological processes. _Biogeosciences_, doi: 10.5194/bg-13-551-2016, 13: 551-566.
 
 19)	Singer, M.B. and **Michaelides, K.** (2014) How is topographic simplicity maintained in ephemeral, dryland channels? _Geology_, doi:10.1130/G36267.1.
 
@@ -82,19 +84,19 @@ https://eos.org/research-spotlights/hillslopes-regulate-sediment-supply-river-ch
 
 16)	Strong, D.J., Flecker, R., Valdes, P.J., Wilkinson, I.P., Rees, J.G., **Michaelides, K.**, Zong, Y.Q., Lloyd, J.M., Yu, F.L. and Pancost, R.D. (2013) A new regional, mid-Holocene palaeoprecipitation signal of the Asian Summer Monsoon. _Quaternary Science Reviews_, doi: 10.1016/j.quascirev.2013.07.034, 78: 65 – 76. 
 
-15)	***Harrison, R.**, Bull, I. and **Michaelides, K.** (2013) A method for the simultaneous extraction of seven pesticides from soil and sediment. _Analytical Methods_, doi:10.1039/c3ay26413k, 5 (8): 2053 – 2058.
+15)	*Harrison, R., Bull, I. and **Michaelides, K.** (2013) A method for the simultaneous extraction of seven pesticides from soil and sediment. _Analytical Methods_, doi:10.1039/c3ay26413k, 5 (8): 2053 – 2058.
 
-14)	**Michaelides, K.**, ***Lister, D.**, Wainwright, J. and Parsons, A.J. (2012) Linking runoff and erosion dynamics to nutrient fluxes in a degrading dryland landscape. _Journal of Geophysical Research-Biogeosciences_, doi:10.1029/2012JG002071, 117, G00N15.
+14)	**Michaelides, K.**, *Lister, D., Wainwright, J. and Parsons, A.J. (2012) Linking runoff and erosion dynamics to nutrient fluxes in a degrading dryland landscape. _Journal of Geophysical Research-Biogeosciences_, doi:10.1029/2012JG002071, 117, G00N15.
 
-13)	**Michaelides, K.** and ***Martin, G.J.** (2012) Sediment transport by runoff on debris-mantled dryland hillslopes. _Journal of Geophysical Research-Earth Surface_, doi:10.1029/2012JF002415, 117, F03014. 
+13)	**Michaelides, K.** and *Martin, G.J. (2012) Sediment transport by runoff on debris-mantled dryland hillslopes. _Journal of Geophysical Research-Earth Surface_, doi:10.1029/2012JF002415, 117, F03014. 
 
-12)	***Lloyd, C.E.M.**, **Michaelides, K.**, Chadwick, D.R., Dungait, J.A.J. and Evershed, R.P. (2011) Tracing the hydrologically-driven vertical transport of slurry-derived organic matter through soil using biomarkers. _Organic Geochemistry_, doi:10.1016/j.orggeochem.2011.11.001, 43(0): 56 – 66. 
+12)	*Lloyd, C.E.M., **Michaelides, K.**, Chadwick, D.R., Dungait, J.A.J. and Evershed, R.P. (2011) Tracing the hydrologically-driven vertical transport of slurry-derived organic matter through soil using biomarkers. _Organic Geochemistry_, doi:10.1016/j.orggeochem.2011.11.001, 43(0): 56 – 66. 
 
 11)	**Michaelides, K.**, *Ibraim, I., Nord, G. and Esteves, M. (2010) Tracing sediment redistribution across a break in slope using rare earth elements. _Earth Surface Processes and Landforms_, doi: 10.1002/esp.1956, 35 (5): 575 – 587. 
 
 10)	**Michaelides, K.** and Chappell, A. (2009) Connectivity as a concept for characterizing hydrological behaviour. _Hydrological Processes_, doi:10.1002/hyp.7214, 23: 517 – 522.
 
-9)	**Michaelides, K.**, ***Lister, D.**, Wainwright, J. and Parsons, A.J. (2009) Vegetation controls on small-scale runoff and erosion dynamics in a degrading dryland environment. _Hydrological Processes_, doi:10.1002/hyp.7293, 23: 1617 – 1630. 
+9)	**Michaelides, K.**, *Lister, D., Wainwright, J. and Parsons, A.J. (2009) Vegetation controls on small-scale runoff and erosion dynamics in a degrading dryland environment. _Hydrological Processes_, doi:10.1002/hyp.7293, 23: 1617 – 1630. 
 
 8)	**Michaelides, K.** and Wainwright, J. (2008) Internal testing of a numerical model of hillslope-channel coupling using laboratory-flume experiments. _Hydrological Processes_, doi:10.1002/hyp.6823, 22: 2274–2291. 
 
