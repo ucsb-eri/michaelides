@@ -11,39 +11,38 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
+50)	Singer, M.B., Grieve, S.W.D., *Chen, S-A., and **Michaelides, K.** (2024) Climatic signatures within the world’s drainage basin morphometrics. Accepted, _Geophysical Research Letters_
 
-50) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
+49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
 self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, doi: 10.1126/science.adn6833
 
-49) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
+48) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
 
-48) *Charteris, A.F., Knowles, T.D.J., Mead, A., Reay, M.K., **Michaelides, K.**, Evershed, R.P. (2024) The differential assimilation of nitrogen fertilizer compounds by soil microorganisms. _FEMS Microbiology Letters_, 371, https://doi.org.10.1093/femsle/fnae041.
+47) *Charteris, A.F., Knowles, T.D.J., Mead, A., Reay, M.K., **Michaelides, K.**, Evershed, R.P. (2024) The differential assimilation of nitrogen fertilizer compounds by soil microorganisms. _FEMS Microbiology Letters_, 371, https://doi.org.10.1093/femsle/fnae041.
 
-47) *Rios Gaona, M.F., Singer, M.B., and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (2024) _Geoscientific Model Development_, 17, 5387–5412, https://doi.org/10.5194/gmd-17-5387-2024
+46) *Rios Gaona, M.F., Singer, M.B., and **Michaelides, K.** (2024) STORM v.2.0: A simple, stochastic decision-support tool for exploring the impacts of climate and climate change at and near the land surface in small watersheds. (2024) _Geoscientific Model Development_, 17, 5387–5412, https://doi.org/10.5194/gmd-17-5387-2024
 
-46) MacLeod, D., Kolstad, E.W., **Michaelides, K.**, and Singer, M.B. (2024) Sensitivity of Rainfall Extremes to Unprecedented Indian Ocean Dipole Events. _Geophysical Research Letters_, https://doi.10.1029/2023GL105258
+45) MacLeod, D., Kolstad, E.W., **Michaelides, K.**, and Singer, M.B. (2024) Sensitivity of Rainfall Extremes to Unprecedented Indian Ocean Dipole Events. _Geophysical Research Letters_, https://doi.10.1029/2023GL105258
 
-45) *Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R., MacLeod, D.A., *Asfaw, D., Cuthbert, M.O. (2023) Assessing the sensitivity of modelled water partitioning to global precipitation datasets in a data-scarce dryland region. _Hydrological Processes_, https://doi.org/10.1002/hyp.15047.
+44) *Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R., MacLeod, D.A., *Asfaw, D., Cuthbert, M.O. (2023) Assessing the sensitivity of modelled water partitioning to global precipitation datasets in a data-scarce dryland region. _Hydrological Processes_, https://doi.org/10.1002/hyp.15047.
 
-44) *Rigby, J.M., *Stawarz, K., Preist, C., Saeed, A., Stokes, K., Elmi, M., Mohamed, A.A. and **Michaelides, K.** (2023) Exploring the Information Needs of Somaliland Pastoralists: Design Considerations for Digital Climate Adaptation Services. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). _Association for Computing Machinery_, New York, NY, USA, 1548–1565. https://doi.org/10.1145/3563657.3596061
+43) *Rigby, J.M., *Stawarz, K., Preist, C., Saeed, A., Stokes, K., Elmi, M., Mohamed, A.A. and **Michaelides, K.** (2023) Exploring the Information Needs of Somaliland Pastoralists: Design Considerations for Digital Climate Adaptation Services. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). _Association for Computing Machinery_, New York, NY, USA, 1548–1565. https://doi.org/10.1145/3563657.3596061
 
-43) Koppa, A., Keune, J., MacLeod, D., Singer, M., Nieto, R., Gimeno, L., **Michaelides, K.**, Rosolem, R., Otieno, G., Tadege, A., Miralles, D.A (2023) Lagrangian analysis of the sources of rainfall over the Horn of Africa drylands (2023), _Journal of Geophysical Research – Atmospheres_ 128, e2022JD038408. https://doi.org/10.1029/2022JD038408
+42) Koppa, A., Keune, J., MacLeod, D., Singer, M., Nieto, R., Gimeno, L., **Michaelides, K.**, Rosolem, R., Otieno, G., Tadege, A., Miralles, D.A (2023) Lagrangian analysis of the sources of rainfall over the Horn of Africa drylands (2023), _Journal of Geophysical Research – Atmospheres_ 128, e2022JD038408. https://doi.org/10.1029/2022JD038408
 
-42) *Asfaw, D.T., Singer, M.B., Rosolem, R., *MacLeod, D., Cuthbert, M.O., *Quichimbo, E.A. *Rios Gaona, M.R., **Michaelides, K.** (2023) stoPET v1.0: A stochastic potential evapotranspiration generator for simulation of climate change impacts. _Geoscientific Model Development_, https://doi.org/10.5194/gmd-2022-128. 
+41) *Asfaw, D.T., Singer, M.B., Rosolem, R., *MacLeod, D., Cuthbert, M.O., *Quichimbo, E.A. *Rios Gaona, M.R., **Michaelides, K.** (2023) stoPET v1.0: A stochastic potential evapotranspiration generator for simulation of climate change impacts. _Geoscientific Model Development_, https://doi.org/10.5194/gmd-2022-128. 
 
-41) *MacLeod, D.A., *Quichimbo, A.E., **Michaelides, K.**, *Asfaw, D., Rosolem, R., Cuthbert, M.O., Otenyo, E., Segele, Z., *Rigby, R., Otieno, G., Hassaballah, K., Tadege, A.., Singer, M.B. (2023) Translating seasonal climate forecasts into water balance forecasts for decision making. PLOS Climate 2(3): e0000138. https://doi.org/10.1371/journal.pclm.0000138
+40) *MacLeod, D.A., *Quichimbo, A.E., **Michaelides, K.**, *Asfaw, D., Rosolem, R., Cuthbert, M.O., Otenyo, E., Segele, Z., *Rigby, R., Otieno, G., Hassaballah, K., Tadege, A.., Singer, M.B. (2023) Translating seasonal climate forecasts into water balance forecasts for decision making. PLOS Climate 2(3): e0000138. https://doi.org/10.1371/journal.pclm.0000138
 
-40) **Michaelides, K.**, *Chen, S-A., Grieve, S.W.D. and Singer, M.B. (2022) Reply to: Climate versus tectonics as controls on river profiles, _Nature_, doi:10.1038/s41586-022-05419-0. 
+39) **Michaelides, K.**, *Chen, S-A., Grieve, S.W.D. and Singer, M.B. (2022) Reply to: Climate versus tectonics as controls on river profiles, _Nature_, doi:10.1038/s41586-022-05419-0. 
 
-39)	*Adloff, M., Singer, M.B., *MacLeod, D., **Michaelides, K.**, Mehrnegar, N., *Hansford, E., Funk, C., Mitchell, D.  (2022) Sustained water storage in Horn of Africa drylands dominated by seasonal rainfall extremes. _Geophysical Research Letters_, https://doi.org/10.1029/2022GL099299 
+38)	*Adloff, M., Singer, M.B., *MacLeod, D., **Michaelides, K.**, Mehrnegar, N., *Hansford, E., Funk, C., Mitchell, D.  (2022) Sustained water storage in Horn of Africa drylands dominated by seasonal rainfall extremes. _Geophysical Research Letters_, https://doi.org/10.1029/2022GL099299 
 
-38) *Lockwood, T., Freer, J., **Michaelides, K.** Brazier, R.E., and Coxon, G. (2022) Assessing the efficacy of offline water storage ponds for natural flood management. _Hydrological Processes_, 36:e14618, DOI: 10.1002/hyp.14618.
+37) *Lockwood, T., Freer, J., **Michaelides, K.** Brazier, R.E., and Coxon, G. (2022) Assessing the efficacy of offline water storage ponds for natural flood management. _Hydrological Processes_, 36:e14618, DOI: 10.1002/hyp.14618.
 
-37)	*Chen, S-A., **Michaelides, K.**, Singer, M.B., Richards, D. (2022) Exploring exogenous controls on short- versus long-term erosion rates globally. _Earth Surface Dynamics_, https://doi.org/10.5194/esurf-10-1055-2022.
+36)	*Chen, S-A., **Michaelides, K.**, Singer, M.B., Richards, D. (2022) Exploring exogenous controls on short- versus long-term erosion rates globally. _Earth Surface Dynamics_, https://doi.org/10.5194/esurf-10-1055-2022.
 
-36)	*Kipkemoi, I., **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands. _In review_
-
-35)	Singer, M.B., Grieve, S.W.D., *Chen, S-A., and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. _In revision_
+35)	*Kipkemoi, I., **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands. _In review_
 
 34) *Rigby, J.M., Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** Exploring the climate and weather services ecosystem in the Greater Horn of Africa through practitioner interviews. _In review_
 
