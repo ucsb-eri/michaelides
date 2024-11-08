@@ -99,9 +99,22 @@ Rebecca Harrison, PhD (Primary Supervisor) <br>
 Gareth Martin, PhD (Primary Supervisor) <br>
 **Thesis: Investigating the effects of hillslope-channel coupling on sediment transport in semi-arid areas.** (_2001-2005_)
 
+<image src="/assets/images/Group_photo_CrescentIsland_30_10_24.jpg" alt="group">
+<figcaption>Group on Crescent Island, Naivasha, Kenya, during D2E General Assembly 30th Oct 2024.</figcaption>
+
+<image src="/assets/images/Group_photo_Hellsgate_31_10_24.jpg" alt="group">
+<figcaption>Group at Hellsgate gorge, Kenya during D2E General Assembly 31st Oct 2024.</figcaption>
+
+<image src="/assets/images/Group_photo_Maa_1_11_24.jpg" alt="group">
+<figcaption>Group at Maa Trust House, Maasai Mara on 1st Nov 2024.</figcaption>
+
+<image src="/assets/images/Group_photo_Mara_2_11_24.jpg" alt="group">
+<figcaption>Group during game drive at Maasai Mara on 2nd Nov 2024.</figcaption>
+
+<image src="/assets/images/Group_photo_Bob_3_11_24.jpg" alt="group">
+<figcaption>Group with awesome driver Bob in Nairobi after safari, 3rd Nov 2024.</figcaption>
+
 <image src="/assets/images/Group_photo_4_2_22_vox.jpg" alt="group">
 <figcaption>Group at VOX coaching session 4th Feb 2022.</figcaption>
-
-
 
 
