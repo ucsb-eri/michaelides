@@ -14,9 +14,9 @@ header:
    caption: "KenGen wind farm on the Ngong hills, Kenya, which overlooks the Rift Valley and is close to ICPAC"
 ---
 
-David MacLeod is a Senior Research Associate working on the [EU H2020 project DOWN2EARTH](https://cordis.europa.eu/project/id/869550). His research expertise includes climate science and predictability from days to decades, the use uncertain information for humanitarian decision-making and data visualisation. 
+David MacLeod was a Senior Research Associate working on the [EU H2020 project DOWN2EARTH](https://cordis.europa.eu/project/id/869550) from 2020-2022 at the University of Bristol. His research expertise includes climate science and predictability from days to decades, the use uncertain information for humanitarian decision-making and data visualisation. Dave is now a Lecturer in Climate Risk at Cardiff University (https://profiles.cardiff.ac.uk/staff/macleodd1).
 
-In Septmeber 2020 he joined the University of Bristol on the EU H2020 project DOWN2EARTH. Previously he worked at the University of Oxford, most recently on the NERC DFiD funded project [ForPAc](http://www.shear.org.uk/research/ForPAc.html), which involved the development of early warning systems for flooding and drought in Kenya and the Greater Horn of Africa, alongside partners in the Kenya Red Cross, Kenya Meteorological Department and the National Flood and Drought Monitoring Authority.
+Previously he worked at the University of Oxford, most recently on the NERC DFiD funded project [ForPAc](http://www.shear.org.uk/research/ForPAc.html), which involved the development of early warning systems for flooding and drought in Kenya and the Greater Horn of Africa, alongside partners in the Kenya Red Cross, Kenya Meteorological Department and the National Flood and Drought Monitoring Authority.
 
 His previous research has looked at:
 - improvement of the modelling systems used to make seasonal predictions through better representation of uncertainty in soil hydrology

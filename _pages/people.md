@@ -30,6 +30,8 @@ excerpt: "Current and past group members"
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
 [Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
+![Muhammad Ali](../assets/images/people/Ali.jpg){:class="img-responsive"}<br>
+[Dagmawi Asfaw]({% link _people/ali.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2024-25_) <br>
 
 ## Current PhD Students 
 #### (Katerina's role in parentheses)
