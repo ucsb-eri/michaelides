@@ -25,10 +25,10 @@ excerpt: "Current and past group members"
 [Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-25_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
-[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
+[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-25_) <br> (based at Cardiff University)
 
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
-[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
+[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-25_) <br> (based at Cardiff University)
 
 ![Muhammad Ali](../assets/images/people/Ali.jpg){:class="img-responsive"}<br>
 [Muhammad Ali]({% link _people/ali.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2024-25_) <br>
