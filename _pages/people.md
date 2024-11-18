@@ -107,11 +107,11 @@ Gareth Martin, PhD (Primary Supervisor) <br>
 <image src="/assets/images/Group_photo_Hellsgate_31_10_24.jpg" alt="group">
 <figcaption>Group at Hellsgate gorge, Kenya during D2E General Assembly 31st Oct 2024.</figcaption>
 
-<figcaption>Group at Maa Trust House, Maasai Mara on 1st Nov 2024.</figcaption>
 <image src="/assets/images/Group_photo_Maa_1_11_24.jpg" alt="group">
+<figcaption>Group at Maa Trust House, Maasai Mara on 1st Nov 2024.</figcaption>
 
-<figcaption>Katerina with Maasai women doing beadwork at the Maa Trust on 1st Nov 2024.</figcaption>
 <image src="/assets/images/Mara_image.jpg" alt="group">
+<figcaption>Katerina with Maasai women doing beadwork at the Maa Trust on 1st Nov 2024.</figcaption>
 
 <image src="/assets/images/Group_photo_Mara_2_11_24.jpg" alt="group">
 <figcaption>Group during game drive at Maasai Mara on 2nd Nov 2024.</figcaption>
