@@ -119,7 +119,7 @@ Gareth Martin, PhD (Primary Supervisor) <br>
 <image src="/assets/images/Group_photo_Bob_3_11_24.jpg" alt="group">
 <figcaption>Group with awesome driver Bob in Nairobi after safari, 3rd Nov 2024.</figcaption>
 
-<image src="/assets/images/Group_photo_VOX_23_9_24_vox.jpg" alt="group">
+<image src="/assets/images/Group_photo_VOX_23_9_24.jpg" alt="group">
 <figcaption>Group at VOX coaching session 23 September 2024, with the VOX master himself, Pete Bailie.</figcaption>
 
 <image src="/assets/images/Group_photo_4_2_22_vox.jpg" alt="group">
