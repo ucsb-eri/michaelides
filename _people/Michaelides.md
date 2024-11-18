@@ -11,7 +11,7 @@ portfolio-item-tag:
     
 header:
    image: "assets/images/people/Michaelides_header.jpg"
-   caption: "Katerina in a desert hillslope in southern California"
+   caption: "Katerina on a desert hillslope in southern California"
 ---
 
 Katerina is Professor of Dryland Hydrology in the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/) at [the University of Bristol](https://www.bristol.ac.uk), the co-lead of the Water Theme of the [Cabot Institute for the Environment](http://www.bristol.ac.uk/cabot/what-we-do/water/), and an Associate Researcher in the [Earth Research Institute](https://www.eri.ucsb.edu/) at [University of California Santa Barbara (UCSB)](https://www.ucsb.edu/). She received both her BSc in Geography and PhD in Hydrology of Arid Environments from King's College London. She comes from the Mediterranean island of Cyprus which forms a big part of the inspiration and fascination with arid environments.

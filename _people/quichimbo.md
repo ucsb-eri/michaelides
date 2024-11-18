@@ -11,7 +11,7 @@ portfolio-item-tag:
     
 header:
    image: "assets/images/people/Quichimbo_header.jpg"
-   caption: ""
+   caption: "Andrés at the Mara River, Kenya, Nov 2024"
 ---
 
 Andrés is from Ecuador and is interested in surface-groundwater interactions in dryland regions. He strongly believes that numerical models will help us in enhancing our understanding of surface-groundwater processes which in turn will be crucial for water resources management purposes under the consequences of climate change. Andrés was a postdoctoral researcher on the DRIER project, based at Cardiff, where he developed a dryland water balance model for application in East Africa. Now he is postdoctoral researcher on the DOWN2EARTH project (based at Cardiff) where he is regionalising the dryland model and adding further capability.
