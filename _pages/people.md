@@ -67,11 +67,11 @@ excerpt: "Current and past group members"
 
 ![Isaac Kipkemoi](/assets/images/people/Kipkemoi.jpg){:class="img-responsive"}<br>
 [Isaac Kipkemoi]({% link _people/kipkemoi.md %}), PhD (Primary Supervisor), Kenyan Government Scholarship <br>
-**Thesis: Detecting signatures of drought in vegetation of East Africa** (_2018-_)
+**Thesis: Detecting signatures of drought in vegetation of East Africa** (_2018-2024_)
 
 ![Tamsin Lockwood](/assets/images/people/Lockwood.jpg){:class="img-responsive"}<br>
 [Tamsin Lockwood]({% link _people/lockwood.md %}), PhD (Primary Supervisor, taken over from Jim Freer in 2019) <br>
-**Thesis: Quantifying the efficacy of in-situ Natural Flood Management (NFM)** (_2017-_)
+**Thesis: Quantifying the efficacy of in-situ Natural Flood Management (NFM)** (_2017-2022_)
 
 ![Shiuan-An Chen](/assets/images/people/Chen.jpg){:class="img-responsive"}<br>
 [Shiuan-An Chen]({% link _people/chen.md %}), PhD (Primary Supervisor) <br>
