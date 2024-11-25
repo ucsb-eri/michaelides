@@ -32,7 +32,7 @@ self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972,
 
 41) *Asfaw, D.T., Singer, M.B., Rosolem, R., *MacLeod, D., Cuthbert, M.O., *Quichimbo, E.A. *Rios Gaona, M.R., **Michaelides, K.** (2023) stoPET v1.0: A stochastic potential evapotranspiration generator for simulation of climate change impacts. _Geoscientific Model Development_, https://doi.org/10.5194/gmd-2022-128. 
 
-40) *MacLeod, D.A., *Quichimbo, A.E., **Michaelides, K.**, *Asfaw, D., Rosolem, R., Cuthbert, M.O., Otenyo, E., Segele, Z., *Rigby, R., Otieno, G., Hassaballah, K., Tadege, A.., Singer, M.B. (2023) Translating seasonal climate forecasts into water balance forecasts for decision making. PLOS Climate 2(3): e0000138. https://doi.org/10.1371/journal.pclm.0000138
+40) *MacLeod, D.A., *Quichimbo, A.E., **Michaelides, K.**, *Asfaw, D., Rosolem, R., Cuthbert, M.O., Otenyo, E., Segele, Z., *Rigby, R., Otieno, G., Hassaballah, K., Tadege, A.., Singer, M.B. (2023) Translating seasonal climate forecasts into water balance forecasts for decision making. _PLOS Climate_ 2(3): e0000138. https://doi.org/10.1371/journal.pclm.0000138
 
 39) **Michaelides, K.**, *Chen, S-A., Grieve, S.W.D. and Singer, M.B. (2022) Reply to: Climate versus tectonics as controls on river profiles, _Nature_, doi:10.1038/s41586-022-05419-0. 
 
@@ -44,7 +44,7 @@ self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972,
 
 35)	*Kipkemoi, I., **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands. _In review_
 
-34) *Rigby, J.M., Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** Exploring the climate and weather services ecosystem in the Greater Horn of Africa through practitioner interviews. _In review_
+34) *Rigby, J.M., Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** (2022) Climate services for the Greater Horn of Africa: interviews exploring practitioner perspectives from Kenya and beyond. _Climate and Development_, https://doi.org.10.1080/17565529.2022.2074350
 
 33) Singer, M.B., *Asfaw, D.T., Rosolem, R, Cuthbert, M.O., Miralles, D.G., *MacLeod, D., *Quichimbo, E.A., **Michaelides, K.** (2021) Hourly potential evapotranspiration at 0.1° resolution for the global land surface from 1981-present. _Scientific Data_ 8: 224, https://doi.org/10.1038/s41597-021-01003-9  
 
