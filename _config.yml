@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : ""
+title                    : "Dryland Research Group"
 title_separator          : "-"
 name                     : "Katerina Michaelides"
 theme                    : minimal-mistakes-jekyll
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Katerina Michaelides"
-  avatar           : "/assets/images/people/Singer.jpg"
-  bio              : "Senior Lecturer in the School of Geographical Sciences, University of Bristol; Associate Researcher in the Earth Research Institute, UC Santa Barbara"
+  avatar           : "/assets/images/people/Michaelides.jpg"
+  bio              : "Professor in the School of Geographical Sciences, University of Bristol; Associate Researcher in the Earth Research Institute, UC Santa Barbara"
   location         : "Bristol, UK"
   email            : "katerina.michaelides@bristol.ac.uk"
   cv               : "/assets/files/Michaelides_CV.pdf" 
