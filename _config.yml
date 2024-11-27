@@ -213,7 +213,7 @@ whitelist:
   - jekyll-cloudinary
 
 cloudinary:
-  cloud_name: waves-website
+  cloud_name: drg-website
   verbose: true
   presets:
     default:
