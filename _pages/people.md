@@ -22,16 +22,16 @@ excerpt: "Current and past group members"
 ## Current Postdocs
 
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
-[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2023-25_) <br>
+[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project DOWN2EARTH (_2023-25_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
-[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-25_) <br> (based at Cardiff University)
+[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project DOWN2EARTH (_2021-25_) <br> (based at Cardiff University)
 
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
-[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-25_) <br> (based at Cardiff University)
+[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project DOWN2EARTH (_2021-25_) <br> (based at Cardiff University)
 
 ![Muhammad Ali](../assets/images/people/Ali.jpg){:class="img-responsive"}<br>
-[Muhammad Ali]({% link _people/ali.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2024-25_) <br>
+[Muhammad Ali]({% link _people/ali.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project DOWN2EARTH (_2024-25_) <br>
 
 ## Current PhD Students 
 #### (Katerina's role in parentheses)
@@ -57,10 +57,10 @@ excerpt: "Current and past group members"
 
 <br>
 ![David MacLeod](../assets/images/people/Macleod.jpg){:class="img-responsive"}<br>
-[David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate, funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
+[David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate, funded by EU Horizon 2020 Project DOWN2EARTH (_2020-23_) <br>
 
 ![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
-[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate, funded by EU Horizon 2020 Project Down2Earth (_2023-24_) <br>
+[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate, funded by EU Horizon 2020 Project DOWN2EARTH (_2023-24_) <br>
 
    
 ## Past Graduate Students (PhD and Masters)
