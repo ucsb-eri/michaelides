@@ -16,7 +16,7 @@ excerpt: "Here is a list of publications by the research group."
 49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
 self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, doi: 10.1126/science.adn6833
 
-48) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_
+48) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_, https://doi.org/10.1175/JHM-D-23-0228.1
 
 47) *Charteris, A.F., Knowles, T.D.J., Mead, A., Reay, M.K., **Michaelides, K.**, Evershed, R.P. (2024) The differential assimilation of nitrogen fertilizer compounds by soil microorganisms. _FEMS Microbiology Letters_, 371, https://doi.org.10.1093/femsle/fnae041.
 
