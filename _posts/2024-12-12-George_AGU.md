@@ -9,7 +9,7 @@ categories:
 tags:
 excerpt: "George presents his research at AGU 2024 in Washington DC"
 header:
-   image: assets/images/Zebras_Kenya.JPG
+   image: assets/images/AGU.jpg
    caption: 
 ---
 
