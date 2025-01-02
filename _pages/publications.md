@@ -16,7 +16,7 @@ excerpt: "Here is a list of publications by the research group."
 50)	Singer, M.B., Grieve, S.W.D., *Chen, S-A., and **Michaelides, K.** (2024) Climatic controls on the length and shape of the world's drainage basins. _Geophysical Research Letters_,  51, e2024GL111220, https://doi.org/10.1029/2024GL111220
 
 49) Koppa, A., Keune, J., Schumacher, D.L., **Michaelides, K.**, Singer, M.B., Seneviratne, S.I., Miralles, D.G. (2024) Global dryland 
-self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, doi: 10.1126/science.adn6833
+self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972, https://doi.org/10.1126/science.adn6833
 
 48) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O, Rosolem, R., Muthusi, F., Paron, P., Kimutai, J., Omondi, P., Hassan, A.M., Teshomei, A., and **Michaelides, K.** (2024) Locally defined seasonal rainfall characteristics within the Horn of Africa drylands from rain gauge observations. _Journal of Hydrometeorology_, https://doi.org/10.1175/JHM-D-23-0228.1
 
@@ -54,7 +54,7 @@ self-expansion enabled by land–atmosphere feedbacks. _Science_ 385, 967–972,
 
 31)	*Chen, S-A., **Michaelides, K.**, Grieve, S.W.D. and Singer, M.B. (2019) Aridity is expressed in river topography globally. _Nature_ 573–577, doi.org/10.1038/s41586-019-1558-8. 
 
-30)	*Turpin-Jelfs, T., **Michaelides, K.**, Biederman, J.A. and Anesio, A.M. (2019) Soil nitrogen response to shrub encroachment in a degrading semiarid grassland. _Biogeosciences_ 16, 369–381, doi: 10.5194/bg-16-369-2019. 
+30)	*Turpin-Jelfs, T., **Michaelides, K.**, Biederman, J.A. and Anesio, A.M. (2019) Soil nitrogen response to shrub encroachment in a degrading semiarid grassland. _Biogeosciences_ 16, 369–381, https://doi.org/10.5194/bg-16-369-2019. 
 
 29)	*Turpin-Jelfs, T., **Michaelides, K.**, Blacker, J., Benning, L., Williams, J. and Anesio, A.M. (2019) Distribution of soil nitrogen and nitrogenase activity in the forefield of a High Arctic receding glacier. _Annals of Glaciology_, https://doi.org/10.1017/aog.2018.35. 
 
