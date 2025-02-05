@@ -11,7 +11,7 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-51) Hu, Y., Fu, B., **Michaelides, K.**, De Kauwe, M.G., Wang, J., Shen, M., Zheng, W., Wang, Y., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z., and Wan, L. (in revision) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China, _Earth's Future_
+51) Hu, Y., Fu, B., **Michaelides, K.**, De Kauwe, M.G., Wang, J., Shen, M., Zheng, W., Wang, Y., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z., and Wan, L. (accepted) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China, _Earth's Future_
 
 50)	Singer, M.B., Grieve, S.W.D., *Chen, S-A., and **Michaelides, K.** (2024) Climatic controls on the length and shape of the world's drainage basins. _Geophysical Research Letters_,  51, e2024GL111220, https://doi.org/10.1029/2024GL111220
 
