@@ -11,9 +11,12 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-53) Grieve, S.W.D., Singer, M.B., Chen, S-A., and **Michaelides, K.** (accepted) GDBM: A database of global drainage basin morphology. _PLOS ONE_.
+54) Daron, J., **Michaelides, K.**, Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (accepted) SIMBOL: A method to co-produce impact-based seasonal outlooks. _Climate Services_ 
 
-52) Hu, Y., Fu, B., **Michaelides, K.**, De Kauwe, M.G., Wang, J., Shen, M., Zheng, W., Wang, Y., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z., and Wan, L. (accepted) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China, _Earth's Future_
+53) Grieve, S.W.D., Singer, M.B., Chen, S-A., and **Michaelides, K.** (2025) GDBM: A database of global drainage basin morphology. _PLoS ONE_ 20(4): e0320771.https://doi.org/10.1371/journal.pone.0320771
+
+52) Hu, Y., Fu, B., **Michaelides, K.**, De Kauwe, M.G., Wang, J., Shen, M., Zheng, W., Wang, Y., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z., and Wan, L. (2025) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China, _Earth's Future_ 13,
+e2024EF005379. https://doi.org/10.1029/ 
 
 51) Odongo, R. A., Schrieks, T., Streefkerk, I., de Moel, H., Busker, T., Haer, T., MacLeod, D., **Michaelides, K.**, Singer, M., Assen, M., Otieno, G. & Van Loon, A. F. (2025) Drought impacts and community adaptation: perspectives on the 2020-2023 drought in East Africa. _International Journal of Disaster Risk Reduction_, 119, 22 p., 105309.
 

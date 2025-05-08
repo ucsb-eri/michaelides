@@ -30,13 +30,15 @@ excerpt: "Current and past group members"
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
 [Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project DOWN2EARTH (_2021-25_) <br> (based at Cardiff University)
 
-![Muhammad Ali](../assets/images/people/Ali.jpg){:class="img-responsive"}<br>
-[Muhammad Ali]({% link _people/ali.md %}), Research Associate (Main Advisor), funded by EU Horizon 2020 Project DOWN2EARTH (_2024-25_) <br>
+
 
 ## Current PhD Students 
 #### (Katerina's role in parentheses)
 
 <br>
+![Muhammad Ali](../assets/images/people/Ali.jpg){:class="img-responsive"}<br>
+[Muhammad Ali]({% link _people/ali.md %}), PhD (Primary Supervisor), NERC Flood CDT Studentship (_2025-_) <br>
+
 ![George Blake](/assets/images/people/Blake.jpg){:class="img-responsive"}<br>
 [George Blake]({% link _people/blake.md %}), PhD (Primary Supervisor), NERC GW4 DTP Studentship (Met Office CASE) <br>
 **Thesis: Convective-scale predictions of climate impacts on the water balance in East African drylands** (_2022-_)
