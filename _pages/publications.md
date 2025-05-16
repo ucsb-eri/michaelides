@@ -11,7 +11,7 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-54) Daron, J., **Michaelides, K.**, Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (accepted) SIMBOL: A method to co-produce impact-based seasonal outlooks. _Climate Services_ 
+54) Daron, J., **Michaelides, K.**, Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (2025) SIMBOL: A method to co-produce impact-based seasonal outlooks. _Climate Services_,  38, 100579, https://doi.org/10.1016/j.cliser.2025.100579 
 
 53) Grieve, S.W.D., Singer, M.B., Chen, S-A., and **Michaelides, K.** (2025) GDBM: A database of global drainage basin morphology. _PLoS ONE_ 20(4): e0320771.https://doi.org/10.1371/journal.pone.0320771
 
