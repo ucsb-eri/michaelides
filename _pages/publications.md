@@ -11,7 +11,7 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-55) Blake, G., **Michaelides, K.**, Kendon, E., Cuthbert, M. and Singer, M.B. (2025) The impact of convection-permitting model rainfall on the dryland water balance. _Hydrology and Earth System Science_, https://doi.org/10.5194/egusphere-2025-1154
+55) Blake, G., **Michaelides, K.**, Kendon, E., Cuthbert, M. and Singer, M.B. (2025) The impact of convection-permitting model rainfall on the dryland water balance. _Hydrology and Earth System Science-D_, https://doi.org/10.5194/egusphere-2025-1154
 
 54) Daron, J., **Michaelides, K.**, Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (2025) SIMBOL: A method to co-produce impact-based seasonal outlooks. _Climate Services_,  38, 100579, https://doi.org/10.1016/j.cliser.2025.100579 
 
