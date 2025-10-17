@@ -11,11 +11,13 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-55) Blake, G., **Michaelides, K.**, Kendon, E., Cuthbert, M. and Singer, M.B. (2025) The impact of convection-permitting model rainfall on the dryland water balance. _Hydrology and Earth System Science-D_, https://doi.org/10.5194/egusphere-2025-1154
+56) Blake, G., **Michaelides, K.**, Kendon, E., Cuthbert, M. and Singer, M.B. (2025) The impact of convection-permitting model rainfall on the dryland water balance. _Hydrology and Earth System Science-D_, https://doi.org/10.5194/egusphere-2025-1154
 
-54) Daron, J., **Michaelides, K.**, Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (2025) SIMBOL: A method to co-produce impact-based seasonal outlooks. _Climate Services_,  38, 100579, https://doi.org/10.1016/j.cliser.2025.100579 
+55) Daron, J., **Michaelides, K.**, Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (2025) SIMBOL: A method to co-produce impact-based seasonal outlooks. _Climate Services_,  38, 100579, https://doi.org/10.1016/j.cliser.2025.100579 
 
-53) Grieve, S.W.D., Singer, M.B., Chen, S-A., and **Michaelides, K.** (2025) GDBM: A database of global drainage basin morphology. _PLoS ONE_ 20(4): e0320771.https://doi.org/10.1371/journal.pone.0320771
+54) Grieve, S.W.D., Singer, M.B., Chen, S-A., and **Michaelides, K.** (2025) GDBM: A database of global drainage basin morphology. _PLoS ONE_ 20(4): e0320771.https://doi.org/10.1371/journal.pone.0320771
+
+53)*Rigby, J.M., Luta, A., Preist, C., Wasonga, O., Singer, M.B., **Michaelides, K.** (2025) Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies: Association for Computing Machinery, 167–183, doi:10.1145/3715335.3735464
 
 52) Hu, Y., Fu, B., **Michaelides, K.**, De Kauwe, M.G., Wang, J., Shen, M., Zheng, W., Wang, Y., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z., and Wan, L. (2025) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China, _Earth's Future_ 13,
 e2024EF005379. https://doi.org/10.1029/ 
