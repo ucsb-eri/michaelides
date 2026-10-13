@@ -11,6 +11,10 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
+59) Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R. and Cuthbert, M.O. (2026) The impact of model resolution on the water balance of a dryland basin. _Hydrological Processes_ in press
+
+58) Bai, Y., Zhang, T., Darby, S.E., Merz, B., Kettner, A.J., **Michaelides, K.**, Jiang, S., Mao, S., Li, Y., Guan, M., Tilahun, S., and Li, D. (2026) Emergent dryland flooding. _Earth-Science Reviews_, https://doi.org/10.1016/j.earscirev.2026.105612
+
 57) Quichimbo, E.A., Singer, M.B., **Michaelides, K.** and Cuthbert, M.O. (2025) DRYP 2.0: A hydrological model for local and regional scale across aridity gradients. _Geoscientific Model Development_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-5316
 
 56) *Blake, G., **Michaelides, K.**, Kendon, E., Cuthbert, M. and Singer, M.B. (2025) The impact of convection-permitting model rainfall on the dryland water balance. _Hydrology and Earth System Science_, https://doi.org/10.5194/egusphere-2025-1154
