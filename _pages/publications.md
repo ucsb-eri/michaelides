@@ -11,7 +11,7 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-60) Singer, M.B., Quichimbo, E.A., Asfaw, D.T., Gul, M.S.A., **Michaelides, K.** (2026) Supercharged flood hazard potential fueled by compounding trends in climate and irrigation. _Environmental Research Letters_ 
+60) Singer, M.B., Quichimbo, E.A., Asfaw, D.T., Gul, M.S.A., **Michaelides, K.** (2026) Supercharged flood hazard potential fueled by compounding trends in climate and irrigation. _Environmental Research Letters_ in press
 
 59) Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R. and Cuthbert, M.O. (2026) The impact of model resolution on the water balance of a dryland basin. _Hydrological Processes_,  https://doi.org/10.1002/hyp.70733
 
