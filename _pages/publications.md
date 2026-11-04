@@ -11,7 +11,9 @@ excerpt: "Here is a list of publications by the research group."
 
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
-59) Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R. and Cuthbert, M.O. (2026) The impact of model resolution on the water balance of a dryland basin. _Hydrological Processes_ in press
+60) Singer, M.B., Quichimbo, E.A., Asfaw, D.T., Gul, M.S.A., **Michaelides, K.** (2026) Supercharged flood hazard potential fueled by compounding trends in climate and irrigation. _Environmental Research Letters_ 
+
+59) Quichimbo, E.A., Singer, M.B., **Michaelides, K.**, Rosolem, R. and Cuthbert, M.O. (2026) The impact of model resolution on the water balance of a dryland basin. _Hydrological Processes_,  https://doi.org/10.1002/hyp.70733
 
 58) Bai, Y., Zhang, T., Darby, S.E., Merz, B., Kettner, A.J., **Michaelides, K.**, Jiang, S., Mao, S., Li, Y., Guan, M., Tilahun, S., and Li, D. (2026) Emergent dryland flooding. _Earth-Science Reviews_, https://doi.org/10.1016/j.earscirev.2026.105612
 
